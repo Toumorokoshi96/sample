@@ -1,5 +1,5 @@
 def hello
-  p "hello, world."
+  p "hello, Git. Tell me why my .gitignore was ignored."
 end
 
 hello
